@@ -55,6 +55,16 @@
 								String em PHP
 							</a>
 						</li>
+						<li>
+							<a href="exercise.php?dir=basicTypesPHP&file=boolean">
+								Boolean em PHP
+							</a>
+						</li>
+						<li>
+							<a href="exercise.php?dir=basicTypesPHP&file=arithmetic">
+								Aritméticas em PHP
+							</a>
+						</li>
 					</ul>
 				</div>
 			</nav>
