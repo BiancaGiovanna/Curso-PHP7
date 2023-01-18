@@ -50,6 +50,11 @@
 						<li>
 							<a href="exercise.php?dir=basicTypesPHP&file=arithmetic">Operações Aritméticas</a>
 						</li>
+						<li>
+							<a href="exercise.php?dir=basicTypesPHP&file=string">
+								String em PHP
+							</a>
+						</li>
 					</ul>
 				</div>
 			</nav>
