@@ -12,3 +12,4 @@ echo "'Teste'" . '"Teste"';
 
 echo '<br>';
 print("Metodo print");
+echo '<br>';

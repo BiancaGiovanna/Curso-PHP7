@@ -4,3 +4,5 @@
 echo 11;
 echo '<br>';
 echo PHP_INT_MAX;
+
+$numero = 10;
